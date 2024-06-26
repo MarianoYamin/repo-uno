@@ -1,4 +1,6 @@
-a = 5
-b = 5
+nombre = "Mariano"
+apellido = "Yamin"
 
-print(a+b)
+saludo = "Hola " + nombre + " " + apellido + " ¿Como estas?"
+
+print(saludo)
